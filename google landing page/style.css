@@ -57,6 +57,9 @@ header nav a {
     font-weight: 500;
     color: white;
 }
+nav i{
+    margin-top: 3px;
+}
 
 nav .circle {
     height: 4vh;
