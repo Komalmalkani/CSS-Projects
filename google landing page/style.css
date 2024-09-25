@@ -61,16 +61,20 @@ header nav a {
 nav .circle {
     height: 4vh;
     width: 2vw;
-    border-radius: 80%;
+    border-radius: 100%;
     background-color: #fff;
     background-image: url(bg.jpg);
-
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10px;
 }
 
 .circle img {
     height: 100%;
     width: 100%;
     object-fit: cover;
+   
 }
 
 header nav {
